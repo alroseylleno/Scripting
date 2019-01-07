@@ -1,0 +1,14 @@
+[System]
+Name=PE1
+Description=ECC - Production - PE1
+Client=100
+[User]
+Name=VNTRUONGV
+Language=EN
+[Function]
+Title=Change PR
+Command=ME52N
+[Configuration]
+WorkDir=C:\Users\VNTRUONGV\Documents\SAP\SAP GUI
+[Options]
+Reuse=1

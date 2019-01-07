@@ -1,0 +1,7 @@
+1. use the CLICK HERE script for Connect & Disconnect the OSS-VN Wifi after certain amount of time
+
+2. If you need the OSS-VN Wifi with extra long time, use Manual script 
+
+3. If you need to delete everything and connect back to tetrapak Wi-Fi, use Medicine script.
+
+4. DO NOT TOUCH the OSSVN script

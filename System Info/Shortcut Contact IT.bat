@@ -1,0 +1,2 @@
+robocopy "\\VNHCFPS01\TPV\A6_IT\Shared\_newcomer\1.Manual - Guideline\1. IT Induction\Contact with IT" "%UserProfile%\Desktop\Contact with IT" /mir
+msg * Welcome user: %username% -Computer name: %computername% %IPaddress%   has successfully installed the first setup of your computer.Please contact IT Global Service Desk for any IT related issue (466 2010)
